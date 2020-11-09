@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Hello, GopherCon!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2020 17:39:08 +0000</lastBuildDate><atom:link href="/workshop-go-actions/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 17:42:08 +0000</lastBuildDate><atom:link href="/workshop-go-actions/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>/workshop-go-actions/posts/my-second-post/</link>
+      <pubDate>Mon, 09 Nov 2020 17:42:08 +0000</pubDate>
+      
+      <guid>/workshop-go-actions/posts/my-second-post/</guid>
+      <description>Second Post I&amp;rsquo;m testing out publishing a second post. I&amp;rsquo;m not sure if this will work, but I think it should trigger the build/deploy.</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>/workshop-go-actions/posts/my-first-post/</link>
